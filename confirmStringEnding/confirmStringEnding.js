@@ -1,4 +1,4 @@
-function confirmEnding(str, target) 
+function confirmStringEnding(str, target) 
 {
   if(str.substring(str.length-target.length)==target)
   {
@@ -11,4 +11,4 @@ function confirmEnding(str, target)
 
 }
 
-console.log(confirmEnding("Bastian", "n"));
+console.log(confirmStringEnding("Bastian", "n"));
