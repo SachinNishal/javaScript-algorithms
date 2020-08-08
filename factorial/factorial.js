@@ -1,4 +1,4 @@
-function factorialize(num) 
+function factorial(num) 
 {
   if (num==0)
   {
@@ -11,4 +11,4 @@ function factorialize(num)
   }
 }
 
-console.log(factorialize(5));
+console.log(factorial(5));
