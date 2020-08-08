@@ -1,7 +1,7 @@
-function convertToF(celsius) 
+function celsiusToFahrenheit(celsius) 
 {
   let fahrenheit=(celsius*(9/5))+32;
   return fahrenheit;
 }
 
-console.log(convertToF(30));
+console.log(celsiusToFahrenheit(30));
