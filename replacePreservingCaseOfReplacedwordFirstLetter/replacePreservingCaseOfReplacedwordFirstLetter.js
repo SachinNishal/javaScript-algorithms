@@ -19,3 +19,5 @@ function replacePreservingCaseOfReplacedwordFirstLetter(str, before, after)
       return str.replace(before,newAfter);
   }
 }
+
+console.log(replacePreservingCaseOfReplacedwordFirstLetter("His name is Tom", "Tom", "john"));
