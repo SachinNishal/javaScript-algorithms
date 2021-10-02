@@ -16,4 +16,3 @@ Algorithms written in JS.
 * [reverseString](../master/reverseString/reverseString.js) - reverse a string.
 * [sumOfRange](../master/sumOfRange/sumOfRange.js) - finds the sum of all numbers in a given range.
 ---
-[![HitCount](http://hits.dwyl.com/SachinNishal/JavaScript-Algorithms.svg)](http://hits.dwyl.com/SachinNishal/JavaScript-Algorithms)
